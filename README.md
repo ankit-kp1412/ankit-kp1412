@@ -1,4 +1,4 @@
-
+<img src="https://github.com/ankit-kp1412/ankit-kp1412/blob/main/akposter.png" alt="logo" width="1000" height="250">
 
 <h1 align="center">Hi 👋, I'm Ankit Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
