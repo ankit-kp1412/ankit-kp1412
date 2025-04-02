@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-kp1412&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-kp1412" /> </p>
 
-- 🌱 I’m currently learning **AI, Machine Learning, EDA,** and also worked on Government Project.
+- 🌱 I’m currently learning **AI, Machine Learning, EDA,** and also worked on Government Project(Ex-CEO,KAFPCL).
 
 - ⚡ Fun fact **99% of my jokes are data-driven… but the sample size is questionable.**
 
